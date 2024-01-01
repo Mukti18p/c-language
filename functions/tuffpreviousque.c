@@ -13,9 +13,9 @@ int main()
 {
      int x,y;
      scanf("%d",&x);
-     printf("Now enter y :\n");
+     printf(" y :\n");
      scanf("%d",&y);
-     printf("Now read str1:\n");
+     printf("str1:\n");
     int i,j,k=0;
     char Master_List[5][10]= {"Admin","Jack","Joseph","Carl","Tom"};
     char str1[100];int count=0;
