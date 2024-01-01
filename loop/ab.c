@@ -18,6 +18,6 @@ int main()
     {
         printf("%d\n",x);
     }
-    //before solve any problem just check the range of int,char
+    
 
 }
