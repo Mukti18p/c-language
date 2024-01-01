@@ -1,5 +1,7 @@
 #include<stdio.h>
+
 void display(int r,int c,int brr[r][c])
+
 {
     for(int i=0;i<r;i++)
     {
